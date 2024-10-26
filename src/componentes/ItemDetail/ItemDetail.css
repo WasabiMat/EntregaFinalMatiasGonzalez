@@ -1,0 +1,15 @@
+.contenedorItem{
+    
+    text-align: center;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 4rem 8rem;
+    background-color: #5e4439;
+    border-radius: 10px;
+    width: 60rem;
+    color: aliceblue;
+}
+
+img{
+    width: 150px;
+}

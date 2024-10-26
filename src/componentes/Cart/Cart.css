@@ -1,0 +1,9 @@
+.menuCheckout{
+    background-color: #5e4439;
+    border-radius: 10px;
+    width: 20rem;
+    margin: 1rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+}

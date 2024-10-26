@@ -1,0 +1,27 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 15px solid rgba(255, 255, 255, 0.253);
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 22%, rgba(142,52,52,1) 100%);
+}
+
+.logo{
+    width: 150px;
+}
+
+li{
+    display: inline-block;
+    margin: 0 15px;
+}
+li span{
+    text-transform: uppercase;
+    color: white;
+    list-style: none;
+    padding: 0px 5px;
+    border: 10px;
+}
+li span:hover{
+    color: rgba(188, 104, 104, 0.304);
+}
